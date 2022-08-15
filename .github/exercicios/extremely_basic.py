@@ -1,3 +1,6 @@
 a = int(input())
 b = int(input())
-print(f"X = {a + b}")
+
+x = a + b
+
+print(f"X = {x}")
